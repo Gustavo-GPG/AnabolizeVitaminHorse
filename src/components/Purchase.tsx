@@ -91,7 +91,7 @@ export default function Purchase() {
                   <button className="group w-full relative py-5 bg-gradient-to-r from-blue-600 to-cyan-500 text-white text-xl font-black uppercase rounded-xl overflow-hidden transition-all duration-300 hover:scale-105 hover:shadow-2xl hover:shadow-blue-500/50 flex items-center justify-center gap-3">
                     <span className="absolute inset-0 bg-gradient-to-r from-cyan-500 to-blue-600 opacity-0 group-hover:opacity-100 transition-opacity duration-300"></span>
                     <ShoppingCart className="relative w-6 h-6" />
-                    <a href="https://vitaminhorse.com.br/produtos/anabolize-pre-hormonal-estimulante-testo-60-tabletes/"
+                    <a href="https://vitaminhorse.com.br/checkout/v3/start/1828055529/267def381c8e65c8cf65bddd07b307a439e01dd3?from_store=1&country=BR"
                     target='_blank'
                     >
                       <span className="relative">COMPRAR AGORA</span>
@@ -113,7 +113,7 @@ export default function Purchase() {
                       <div className="text-xs text-gray-400 uppercase">Seguro</div>
                     </div>
                     <div className="text-center">
-                      <div className="text-2xl font-black text-blue-400 mb-1">30d</div>
+                      <div className="text-2xl font-black text-blue-400 mb-1">7d</div>
                       <div className="text-xs text-gray-400 uppercase">Garantia</div>
                     </div>
                   </div>
