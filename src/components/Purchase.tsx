@@ -85,7 +85,7 @@ export default function Purchase() {
                       <span className="text-5xl font-black text-white">R$ 97</span>
                       <span className="text-gray-400 text-lg">,90</span>
                     </div>
-                    <p className="text-blue-400 text-sm font-semibold">ou 3x de R$ 39,97 sem juros</p>
+                    <p className="text-blue-400 text-sm font-semibold">ou 3x de R$ 42,63 sem juros</p>
                   </div>
 
                   <button className="group w-full relative py-5 bg-gradient-to-r from-blue-600 to-cyan-500 text-white text-xl font-black uppercase rounded-xl overflow-hidden transition-all duration-300 hover:scale-105 hover:shadow-2xl hover:shadow-blue-500/50 flex items-center justify-center gap-3">
