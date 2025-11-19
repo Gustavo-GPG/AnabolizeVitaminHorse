@@ -82,7 +82,7 @@ export default function Purchase() {
 
                   <div className="bg-gradient-to-r from-blue-900/30 to-cyan-900/30 border border-blue-500/30 rounded-2xl p-6 mb-8">
                     <div className="flex items-baseline gap-2 mb-2">
-                      <span className="text-5xl font-black text-white">R$ 119</span>
+                      <span className="text-5xl font-black text-white">R$ 97</span>
                       <span className="text-gray-400 text-lg">,90</span>
                     </div>
                     <p className="text-blue-400 text-sm font-semibold">ou 3x de R$ 39,97 sem juros</p>
